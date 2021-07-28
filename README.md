@@ -1,2 +1,2 @@
-# lcd-data-lab-course-
-Course Repo for "Laboratorio de Datos" /Data Lab Course, edition. 2021. University of Buenos Aires  
+# lcd-data-lab-course
+Course Repo for Data Lab Course, edition. 2021. University of Buenos Aires  
